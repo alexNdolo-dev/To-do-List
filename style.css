@@ -1,0 +1,41 @@
+
+.container{
+    width: 300px;
+    margin: 50px auto;
+    padding: 8px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    text-align: center;
+}
+input{
+    width: 200px;
+    padding: 8px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-weight: bolder;
+    background-color:darkgrey;
+}
+
+#btn{
+    width: 60px;
+    padding: 8px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-weight: bolder;
+    background-color: rgb(198, 31, 31);
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+#list li{
+    padding: 8px;
+    margin: 4px 0;
+    border-radius: 5px;
+}
+.done {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
